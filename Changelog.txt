@@ -3,9 +3,14 @@ December 2015
      * PgUp/PgDn increments time acceleration (configurable) (#3544)
      * New-UI galactic view (#3549)
      * Search & Rescue mission script (#3529)
+     * New config value UIScaleFactor to scale text and images in the UI (#3552)
 
    * Fixes
      * Fix typo in language strings (#3382)
+     * Fix crash upon illegal activity in uninhabited system (#3555)
+     * Fix BBS icon for new S-R mission module (#3558)
+     * Galactic view fixes (#3557)
+     * Fix rounding of the 'heading' display (#3550, #3561)
 
    * Internal Changes
      * Face parts (head/hair/eyes/nose/mouth) can now be non-gendered (#3548)
